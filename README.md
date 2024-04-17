@@ -1,5 +1,3 @@
-# About me
+# Hi there, I'm Tuomas!
 
-Hi there!
-
-My background is in audio DSP and embedded programming in telecoms domain.
+I have a background in audio DSP and embedded programming in telecoms domain.
